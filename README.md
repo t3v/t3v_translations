@@ -3,7 +3,7 @@
 
 [![Travis CI Status][Travis CI Status]][Travis CI]
 
-**The translations extension of [TYPO3 voilà].**
+**The translations extension of [TYPO3voilà].**
 
 Dependencies
 ------------
@@ -64,8 +64,8 @@ T3v Translations is released under the [MIT License (MIT)], see [LICENSE].
 [LICENSE]: https://raw.githubusercontent.com/t3v/t3v_translations/master/LICENSE "License"
 [MIT License (MIT)]: http://opensource.org/licenses/MIT "The MIT License (MIT)"
 [Semantic Versioning 2.0.0]: http://semver.org "Semantic Versioning 2.0.0"
-[T3v Translations]: https://t3v.github.io/t3v_translations/ "The translations extension of TYPO3 voilà."
+[T3v Translations]: https://t3v.github.io/t3v_translations/ "The translations extension of TYPO3voilà."
 [Travis CI]: https://travis-ci.org/t3v/t3v_translations "T3v Translations at Travis CI"
 [Travis CI Status]: https://img.shields.io/travis/t3v/t3v_translations.svg?style=flat "Travis CI Status"
-[TYPO3 voilà]: https://github.com/t3v "“UH LÁLÁ, TYPO3!”"
+[TYPO3voilà]: https://github.com/t3v "“UH LÁLÁ, TYPO3!”"
 [Unit Testing TYPO3]: https://wiki.typo3.org/Unit_Testing_TYPO3 "Unit testing TYPO3"
