@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0" xmlns:t3="http://typo3.org/schemas/xliff">
+  <file product-name="t3v_translations" source-language="en" target-language="de" datatype="plaintext" original="messages">
+    <header />
+
+    <body>
+      <!-- === Columns === -->
+
+      <trans-unit id="columns.sysLanguageUid.label">
+        <source>Language</source>
+        <target>Sprache</target>
+      </trans-unit>
+
+      <trans-unit id="columns.l10nParent.label">
+        <source>Parent of translation</source>
+        <target>Elternelement der Übersetzung</target>
+      </trans-unit>
+
+      <trans-unit id="columns.hidden.label">
+        <source>Hidden</source>
+        <target>Verborgen</target>
+      </trans-unit>
+
+      <trans-unit id="columns.starttime.label">
+        <source>Publish Date</source>
+        <target>Veröffentlichungsdatum</target>
+      </trans-unit>
+
+      <trans-unit id="columns.endtime.label">
+        <source>Expiration Date</source>
+        <target>Ablaufdatum</target>
+      </trans-unit>
+
+      <trans-unit id="columns.feGroup.label">
+        <source>Usergroup Access Rights</source>
+        <target>Zugriffsrechte für Benutzergruppen</target>
+      </trans-unit>
+
+      <trans-unit id="columns.editlock.label">
+        <source>Restrict editing by non-Admins</source>
+        <target>Bearbeitung erfordert Admin-Rechte</target>
+      </trans-unit>
+
+      <!-- === Ctrl === -->
+
+      <trans-unit id="ctrl.prependAtCopy.label">
+        <source>(Copy %s)</source>
+        <target>(Kopie %s)</target>
+      </trans-unit>
+
+      <!-- === Palettes === -->
+
+      <trans-unit id="palettes.access.label">
+        <source>Publish Dates and Access Rights</source>
+        <target>Veröffentlichungsdaten und Zugriffsrechte</target>
+      </trans-unit>
+
+      <trans-unit id="palettes.general.label">
+        <source>General</source>
+        <target>Allgemein</target>
+      </trans-unit>
+
+      <trans-unit id="palettes.language.label">
+        <source>Language</source>
+        <target>Sprache</target>
+      </trans-unit>
+
+      <trans-unit id="palettes.visibility.label">
+        <source>Visibility</source>
+        <target>Sichtbarkeit</target>
+      </trans-unit>
+
+      <!-- === Shared === -->
+
+      <trans-unit id="shared.default.label">
+        <source>Default</source>
+        <target>Standard</target>
+      </trans-unit>
+
+      <trans-unit id="shared.enabled.label">
+        <source>Enabled</source>
+        <target>Aktiviert</target>
+      </trans-unit>
+
+      <trans-unit id="shared.disabled.label">
+        <source>Disabled</source>
+        <target>Deaktiviert</target>
+      </trans-unit>
+
+      <trans-unit id="shared.allLanguages.label">
+        <source>All languages</source>
+        <target>Alle Sprachen</target>
+      </trans-unit>
+
+      <trans-unit id="shared.hideAtLogin.label">
+        <source>Hide at login</source>
+        <target>Nach Anmeldung verbergen</target>
+      </trans-unit>
+
+      <trans-unit id="shared.anyLogin.label">
+        <source>Show at any login</source>
+        <target>Anzeigen, wenn angemeldet</target>
+      </trans-unit>
+
+      <trans-unit id="shared.userGroups.label">
+        <source>__User Groups:__</source>
+        <target>__Benutzergruppen:__</target>
+      </trans-unit>
+
+      <!-- === Tabs === -->
+
+      <trans-unit id="tabs.access.label">
+        <source>Access</source>
+        <target>Zugriff</target>
+      </trans-unit>
+
+      <trans-unit id="tabs.accessibility.label">
+        <source>Accessibility</source>
+        <target>Zugänglichkeit</target>
+      </trans-unit>
+
+      <trans-unit id="tabs.appearance.label">
+        <source>Appearance</source>
+        <target>Erscheinungsbild</target>
+      </trans-unit>
+
+      <trans-unit id="tabs.behaviour.label">
+        <source>Behaviour</source>
+        <target>Verhalten</target>
+      </trans-unit>
+
+      <trans-unit id="tabs.categories.label">
+        <source>Categories</source>
+        <target>Kategorien</target>
+      </trans-unit>
+
+      <trans-unit id="tabs.extended.label">
+        <source>Extended</source>
+        <target>Erweitert</target>
+      </trans-unit>
+
+      <trans-unit id="tabs.general.label">
+        <source>General</source>
+        <target>Allgemein</target>
+      </trans-unit>
+
+      <trans-unit id="tabs.images.label">
+        <source>Images</source>
+        <target>Bilder</target>
+      </trans-unit>
+
+      <trans-unit id="tabs.language.label">
+        <source>Language</source>
+        <target>Sprache</target>
+      </trans-unit>
+
+      <trans-unit id="tabs.metadata.label">
+        <source>Metadata</source>
+        <target>Metadaten</target>
+      </trans-unit>
+
+      <trans-unit id="tabs.resources.label">
+        <source>Resources</source>
+        <target>Ressourcen</target>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

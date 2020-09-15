@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<xliff version="1.0">
+  <file product-name="t3v_translations" source-language="en" datatype="plaintext" original="messages">
+    <header />
+
+    <body>
+      <!-- === Sheets === -->
+
+      <trans-unit id="sheets.appearance.title">
+        <source>Appearance</source>
+      </trans-unit>
+
+      <trans-unit id="sheets.settings.title">
+        <source>Settings</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
