@@ -1,9 +1,15 @@
 <?php
+/**
+ * The `sys_template` TCA override.
+ *
+ * @noinspection PhpFullyQualifiedNameUsageInspection
+ */
+
 defined('TYPO3_MODE') or die();
 
 // === Variables ===
 
-$extensionKey   = 't3v_translations';
+$extensionKey = 't3v_translations';
 $extensionTitle = 'T3v Translations';
 
 // === TypoScript ===
