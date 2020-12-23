@@ -13,6 +13,8 @@
       <trans-unit id="sheets.settings.title">
         <source>Settings</source>
       </trans-unit>
+
+      <!-- === T3v Generator === -->
     </body>
   </file>
 </xliff>

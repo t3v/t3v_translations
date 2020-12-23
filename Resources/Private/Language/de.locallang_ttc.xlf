@@ -1,44 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<xliff version="1.0" xmlns:t3="http://typo3.org/schemas/xliff">
+<xliff version="1.0">
   <file product-name="t3v_translations" source-language="en" target-language="de" datatype="plaintext" original="messages">
     <header />
 
     <body>
-      <!-- === TCEFORM === -->
+      <!-- === TCE Form === -->
 
-      <!-- *** Layout *** -->
+      <!-- Header -->
 
-      <trans-unit id="tceform.ttContent.layout.altLabels.0.label">
-        <source>Default</source>
-        <target>Standard</target>
+      <trans-unit id="tceform.ttContent.header.layout.label">
+        <source>Layout</source>
+        <target>Layout</target>
       </trans-unit>
-
-      <trans-unit id="tceform.ttContent.layout.altLabels.1.label">
-        <source>Layout 1</source>
-        <target>Layout 1</target>
-      </trans-unit>
-
-      <trans-unit id="tceform.ttContent.layout.altLabels.2.label">
-        <source>Layout 2</source>
-        <target>Layout 2</target>
-      </trans-unit>
-
-      <trans-unit id="tceform.ttContent.layout.altLabels.3.label">
-        <source>Layout 3</source>
-        <target>Layout 3</target>
-      </trans-unit>
-
-      <trans-unit id="tceform.ttContent.layout.altLabels.4.label">
-        <source>Layout 4</source>
-        <target>Layout 4</target>
-      </trans-unit>
-
-      <trans-unit id="tceform.ttContent.layout.altLabels.5.label">
-        <source>Layout 5</source>
-        <target>Layout 5</target>
-      </trans-unit>
-
-      <!-- *** Header *** -->
 
       <trans-unit id="tceform.ttContent.header.layout.altLabels.0.label">
         <source>Default</source>
@@ -70,10 +43,54 @@
         <target>Layout 5 (H5)</target>
       </trans-unit>
 
+      <trans-unit id="tceform.ttContent.header.layout.altLabels.6.label">
+        <source>Layout 6 (H6)</source>
+        <target>Layout 6 (H6)</target>
+      </trans-unit>
+
       <trans-unit id="tceform.ttContent.header.layout.altLabels.100.label">
         <source>Hidden</source>
         <target>Verborgen</target>
       </trans-unit>
+
+      <!-- Layout -->
+
+      <trans-unit id="tceform.ttContent.layout.altLabels.0.label">
+        <source>Default</source>
+        <target>Standard</target>
+      </trans-unit>
+
+      <trans-unit id="tceform.ttContent.layout.altLabels.1.label">
+        <source>Layout 1</source>
+        <target>Layout 1</target>
+      </trans-unit>
+
+      <trans-unit id="tceform.ttContent.layout.altLabels.2.label">
+        <source>Layout 2</source>
+        <target>Layout 2</target>
+      </trans-unit>
+
+      <trans-unit id="tceform.ttContent.layout.altLabels.3.label">
+        <source>Layout 3</source>
+        <target>Layout 3</target>
+      </trans-unit>
+
+      <trans-unit id="tceform.ttContent.layout.altLabels.4.label">
+        <source>Layout 4</source>
+        <target>Layout 4</target>
+      </trans-unit>
+
+      <trans-unit id="tceform.ttContent.layout.altLabels.5.label">
+        <source>Layout 5</source>
+        <target>Layout 5</target>
+      </trans-unit>
+
+      <trans-unit id="tceform.ttContent.layout.altLabels.6.label">
+        <source>Layout 6</source>
+        <target>Layout 6</target>
+      </trans-unit>
+
+      <!-- === T3v Generator === -->
     </body>
   </file>
 </xliff>

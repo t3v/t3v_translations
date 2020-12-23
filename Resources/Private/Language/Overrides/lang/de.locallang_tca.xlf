@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<xliff version="1.0" xmlns:t3="http://typo3.org/schemas/xliff">
+<xliff version="1.0">
   <file product-name="lang" source-language="en" target-language="de" datatype="plaintext" original="messages">
     <header />
+
     <body>
       <trans-unit id="allowed_languages" approved="yes">
         <source>Limit to languages</source>
@@ -643,7 +644,7 @@
       </trans-unit>
 
       <trans-unit id="sys_filemounts.base_absolute" approved="yes">
-        <source>absolute (root) / </source>
+        <source>absolute (root) /</source>
         <target state="translated">absolut (Wurzel) /</target>
       </trans-unit>
 
