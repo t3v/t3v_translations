@@ -55,6 +55,11 @@
 
       <!-- Layout -->
 
+      <trans-unit id="tceform.ttContent.layout.label">
+        <source>Layout</source>
+        <target>Layout</target>
+      </trans-unit>
+
       <trans-unit id="tceform.ttContent.layout.altLabels.0.label">
         <source>Default</source>
         <target>Standard</target>
