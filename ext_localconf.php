@@ -6,3 +6,5 @@
  */
 
 defined('TYPO3_MODE') or die();
+
+# === T3v Generator ===
