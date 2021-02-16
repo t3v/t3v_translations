@@ -10,6 +10,10 @@
         <source>Appearance</source>
       </trans-unit>
 
+      <trans-unit id="sheets.general.title">
+        <source>General</source>
+      </trans-unit>
+
       <trans-unit id="sheets.settings.title">
         <source>Settings</source>
       </trans-unit>

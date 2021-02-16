@@ -11,6 +11,11 @@
         <target>Erscheinungsbild</target>
       </trans-unit>
 
+      <trans-unit id="sheets.general.title">
+        <source>General</source>
+        <target>Allgemein</target>
+      </trans-unit>
+
       <trans-unit id="sheets.settings.title">
         <source>Settings</source>
         <target>Einstellungen</target>
