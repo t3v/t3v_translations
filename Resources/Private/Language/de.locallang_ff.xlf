@@ -6,6 +6,11 @@
     <body>
       <!-- === Sheets === -->
 
+      <trans-unit id="sheets.access.label">
+        <source>Publish Dates and Access Rights</source>
+        <target>Veröffentlichungsdaten und Zugriffsrechte</target>
+      </trans-unit>
+
       <trans-unit id="sheets.appearance.title">
         <source>Appearance</source>
         <target>Erscheinungsbild</target>
@@ -16,9 +21,19 @@
         <target>Allgemein</target>
       </trans-unit>
 
+      <trans-unit id="palettes.language.label">
+        <source>Language</source>
+        <target>Sprache</target>
+      </trans-unit>
+
       <trans-unit id="sheets.settings.title">
         <source>Settings</source>
         <target>Einstellungen</target>
+      </trans-unit>
+
+      <trans-unit id="sheets.visibility.label">
+        <source>Visibility</source>
+        <target>Sichtbarkeit</target>
       </trans-unit>
 
       <!-- === T3v Generator === -->
