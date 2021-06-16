@@ -110,8 +110,8 @@
       <!-- === Tabs === -->
 
       <trans-unit id="tabs.access.label">
-        <source>Access</source>
-        <target>Zugriff</target>
+        <source>Publish Dates and Access Rights</source>
+        <target>Veröffentlichungsdaten und Zugriffsrechte</target>
       </trans-unit>
 
       <trans-unit id="tabs.accessibility.label">

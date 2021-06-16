@@ -16,6 +16,11 @@
         <target>Erscheinungsbild</target>
       </trans-unit>
 
+      <trans-unit id="sheets.behaviour.label">
+        <source>Behaviour</source>
+        <target>Verhalten</target>
+      </trans-unit>
+
       <trans-unit id="sheets.general.title">
         <source>General</source>
         <target>Allgemein</target>

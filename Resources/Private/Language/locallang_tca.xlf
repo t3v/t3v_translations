@@ -91,7 +91,7 @@
       <!-- === Tabs === -->
 
       <trans-unit id="tabs.access.label">
-        <source>Access</source>
+        <source>Publish Dates and Access Rights</source>
       </trans-unit>
 
       <trans-unit id="tabs.accessibility.label">
