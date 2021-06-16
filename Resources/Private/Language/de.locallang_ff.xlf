@@ -6,7 +6,7 @@
     <body>
       <!-- === Sheets === -->
 
-      <trans-unit id="sheets.access.label">
+      <trans-unit id="sheets.access.title">
         <source>Publish Dates and Access Rights</source>
         <target>Veröffentlichungsdaten und Zugriffsrechte</target>
       </trans-unit>
@@ -16,7 +16,7 @@
         <target>Erscheinungsbild</target>
       </trans-unit>
 
-      <trans-unit id="sheets.behaviour.label">
+      <trans-unit id="sheets.behaviour.title">
         <source>Behaviour</source>
         <target>Verhalten</target>
       </trans-unit>
@@ -26,7 +26,7 @@
         <target>Allgemein</target>
       </trans-unit>
 
-      <trans-unit id="palettes.language.label">
+      <trans-unit id="palettes.language.title">
         <source>Language</source>
         <target>Sprache</target>
       </trans-unit>
@@ -36,7 +36,7 @@
         <target>Einstellungen</target>
       </trans-unit>
 
-      <trans-unit id="sheets.visibility.label">
+      <trans-unit id="sheets.visibility.title">
         <source>Visibility</source>
         <target>Sichtbarkeit</target>
       </trans-unit>
