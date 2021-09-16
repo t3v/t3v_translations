@@ -60,28 +60,32 @@
 
       <!-- === Shared === -->
 
-      <trans-unit id="shared.default.label">
-        <source>Default</source>
+      <trans-unit id="shared.allLanguages.label">
+        <source>All languages</source>
       </trans-unit>
 
-      <trans-unit id="shared.enabled.label">
-        <source>Enabled</source>
+      <trans-unit id="shared.anyLogin.label">
+        <source>Show at any login</source>
+      </trans-unit>
+
+      <trans-unit id="shared.default.label">
+        <source>Default</source>
       </trans-unit>
 
       <trans-unit id="shared.disabled.label">
         <source>Disabled</source>
       </trans-unit>
 
-      <trans-unit id="shared.allLanguages.label">
-        <source>All languages</source>
+      <trans-unit id="shared.enabled.label">
+        <source>Enabled</source>
+      </trans-unit>
+
+      <trans-unit id="shared.standard.label">
+        <source>Standard</source>
       </trans-unit>
 
       <trans-unit id="shared.hideAtLogin.label">
         <source>Hide at login</source>
-      </trans-unit>
-
-      <trans-unit id="shared.anyLogin.label">
-        <source>Show at any login</source>
       </trans-unit>
 
       <trans-unit id="shared.userGroups.label">
