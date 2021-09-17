@@ -8,21 +8,19 @@ plugin {
   tx_t3vtranslations {
     persistence {
       enableAutomaticCacheClearing = {$plugin.tx_t3vtranslations.persistence.enableAutomaticCacheClearing}
-
       storagePid = {$plugin.tx_t3vtranslations.persistence.storagePid}
-
       updateReferenceIndex = {$plugin.tx_t3vtranslations.persistence.updateReferenceIndex}
     }
 
     resources {
-      rootPath = {$plugin.tx_t3vcore.resources.rootPath}
+      rootPath = {$plugin.tx_t3vtranslations.resources.rootPath}
 
       private {
-        rootPath = {$plugin.tx_t3vcore.resources.private.rootPath}
+        rootPath = {$plugin.tx_t3vtranslations.resources.private.rootPath}
       }
 
       public {
-        rootPath = {$plugin.tx_t3vcore.resources.public.rootPath}
+        rootPath = {$plugin.tx_t3vtranslations.resources.public.rootPath}
       }
     }
 
