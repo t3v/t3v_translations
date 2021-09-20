@@ -35,8 +35,8 @@ class RenderingTest extends FunctionalTestCase
      * @var array
      */
     protected $testExtensionsToLoad = [
-        'typo3conf/ext/t3v_testing',
-        'typo3conf/ext/t3v_translations'
+        'typo3conf/ext/t3v_translations',
+        'typo3conf/ext/t3v_testing'
     ];
 
     /**
