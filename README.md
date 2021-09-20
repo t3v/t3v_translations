@@ -20,20 +20,19 @@ Development
 
 ### Setup
 
-```
-$ ./Scripts/Setup.sh
+```sh
+git clone https://github.com/t3v/t3v_translations.git && cd t3v_translations
+
+./Scripts/Setup.sh
 ```
 
-### Run Unit Tests
+### Testing
 
-```
-$ ./Scripts/Tests/Unit.sh
-```
-
-### Run Functional Tests
-
-```
-$ ./Scripts/Tests/Functional.sh
+```sh
+./Scripts/Tests.sh
+./Scripts/Tests/Unit.sh
+./Scripts/Tests/Functional.sh
+./Scripts/Tests/Migrate.sh
 ```
 
 Bug Reports

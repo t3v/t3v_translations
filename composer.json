@@ -40,11 +40,11 @@
   ],
   "require": {
     "php": ">= 7.2",
-    "typo3/cms-core": "^9.5 || ^10.4 || ^11.5"
+    "typo3/cms-core": "^9.5.30 || ^10.4.20 || ^11.5"
   },
   "require-dev": {
     "ext-dom": "*",
-    "t3v/t3v_testing": "^1.1"
+    "t3v/t3v_testing": "^1.2"
   },
   "autoload": {
     "psr-4": {
