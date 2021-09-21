@@ -7,4 +7,12 @@
 
 defined('TYPO3_MODE') or die();
 
-# === T3v Generator ===
+// (static function () {
+//     // === Variables ===
+//
+//     // $namespace = 'T3v';
+//     // $extensionKey = 't3v_translations';
+//     // $extensionSignature = \T3v\T3vCore\Utility\ExtensionUtility::getSignature($namespace, $extensionKey);
+//
+//     // === T3v Generator ===
+// })();
