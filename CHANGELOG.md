@@ -3,8 +3,8 @@ CHANGELOG
 
 Notable changes will be documented in this file. The project adheres to [Semantic Versioning].
 
-Unrelased
----------
+1.2.0
+-----
 
 * Updated dependencies
 * Minor changes and clean up
