@@ -6,7 +6,7 @@
     <body>
       <!-- === TCE Form === -->
 
-      <!-- Content Elements -->
+      <!-- Content Records -->
 
       <trans-unit id="tceform.ttContent.header.layout.label">
         <source>Layout</source>
