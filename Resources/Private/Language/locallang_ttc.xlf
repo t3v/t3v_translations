@@ -6,7 +6,7 @@
     <body>
       <!-- === TCE Form === -->
 
-      <!-- Header -->
+      <!-- Content Elements -->
 
       <trans-unit id="tceform.ttContent.header.layout.label">
         <source>Layout</source>
@@ -44,7 +44,13 @@
         <source>Hidden</source>
       </trans-unit>
 
-      <!-- Layout -->
+      <trans-unit id="tceform.ttContent.header.position.label">
+        <source>Alignment</source>
+      </trans-unit>
+
+      <trans-unit id="tceform.ttContent.header.position.altLabels.standard.label">
+        <source>Standard</source>
+      </trans-unit>
 
       <trans-unit id="tceform.ttContent.layout.label">
         <source>Layout</source>
