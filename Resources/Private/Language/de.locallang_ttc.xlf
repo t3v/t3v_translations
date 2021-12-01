@@ -14,7 +14,7 @@
       </trans-unit>
 
       <trans-unit id="tceform.ttContent.header.layout.altLabels.0.label">
-        <source>Standard</source>
+        <source>Default</source>
         <target>Standard</target>
       </trans-unit>
 
@@ -58,18 +58,13 @@
         <target>Ausrichtung</target>
       </trans-unit>
 
-      <trans-unit id="tceform.ttContent.header.position.altLabels.standard.label">
-        <source>Standard</source>
-        <target>Standard</target>
-      </trans-unit>
-
       <trans-unit id="tceform.ttContent.layout.label">
         <source>Layout</source>
         <target>Layout</target>
       </trans-unit>
 
       <trans-unit id="tceform.ttContent.layout.altLabels.0.label">
-        <source>Standard</source>
+        <source>Default</source>
         <target>Standard</target>
       </trans-unit>
 

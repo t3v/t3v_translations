@@ -80,10 +80,6 @@
         <source>Enabled</source>
       </trans-unit>
 
-      <trans-unit id="shared.standard.label">
-        <source>Standard</source>
-      </trans-unit>
-
       <trans-unit id="shared.hideAtLogin.label">
         <source>Hide at login</source>
       </trans-unit>

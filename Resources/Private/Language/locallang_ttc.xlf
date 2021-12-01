@@ -13,7 +13,7 @@
       </trans-unit>
 
       <trans-unit id="tceform.ttContent.header.layout.altLabels.0.label">
-        <source>Standard</source>
+        <source>Default</source>
       </trans-unit>
 
       <trans-unit id="tceform.ttContent.header.layout.altLabels.1.label">
@@ -48,16 +48,12 @@
         <source>Alignment</source>
       </trans-unit>
 
-      <trans-unit id="tceform.ttContent.header.position.altLabels.standard.label">
-        <source>Standard</source>
-      </trans-unit>
-
       <trans-unit id="tceform.ttContent.layout.label">
         <source>Layout</source>
       </trans-unit>
 
       <trans-unit id="tceform.ttContent.layout.altLabels.0.label">
-        <source>Standard</source>
+        <source>Default</source>
       </trans-unit>
 
       <trans-unit id="tceform.ttContent.layout.altLabels.1.label">
