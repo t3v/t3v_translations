@@ -4,6 +4,24 @@
     <header />
 
     <body>
+      <!-- === Modules === -->
+
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.contentElements.header">
+        <source>Content elements</source>
+      </trans-unit>
+
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.contentObjects.header">
+        <source>Content objects</source>
+      </trans-unit>
+
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.custom.header">
+        <source>Custom elements</source>
+      </trans-unit>
+
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.gridElements.header">
+        <source>Grid elements</source>
+      </trans-unit>
+
       <!-- === TCE Form === -->
 
       <!-- Content Records -->

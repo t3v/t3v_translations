@@ -4,6 +4,28 @@
     <header />
 
     <body>
+      <!-- === Modules === -->
+
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.contentElements.header">
+        <source>Content elements</source>
+        <target>Inhaltselemente</target>
+      </trans-unit>
+
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.contentObjects.header">
+        <source>Content objects</source>
+        <target>Inhaltsobjekte</target>
+      </trans-unit>
+
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.custom.header">
+        <source>Custom elements</source>
+        <target>Benutzerdefinierte Elemente</target>
+      </trans-unit>
+
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.gridElements.header">
+        <source>Grid elements</source>
+        <target>Raster-Elemente</target>
+      </trans-unit>
+
       <!-- === TCE Form === -->
 
       <!-- Content Records -->
