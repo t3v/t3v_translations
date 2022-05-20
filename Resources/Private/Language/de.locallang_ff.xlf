@@ -7,8 +7,8 @@
       <!-- === Sheets === -->
 
       <trans-unit id="sheets.access.title">
-        <source>Publish Dates and Access Rights</source>
-        <target>Veröffentlichungsdaten und Zugriffsrechte</target>
+        <source>Access rights and publish dates</source>
+        <target>Zugriffsrechte und Veröffentlichungsdaten</target>
       </trans-unit>
 
       <trans-unit id="sheets.appearance.title">

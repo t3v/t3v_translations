@@ -19,15 +19,15 @@
       </trans-unit>
 
       <trans-unit id="columns.starttime.label">
-        <source>Publish Date</source>
+        <source>Publish date</source>
       </trans-unit>
 
       <trans-unit id="columns.endtime.label">
-        <source>Expiration Date</source>
+        <source>Expiration date</source>
       </trans-unit>
 
       <trans-unit id="columns.feGroup.label">
-        <source>Usergroup Access Rights</source>
+        <source>Usergroup access rights</source>
       </trans-unit>
 
       <trans-unit id="columns.editlock.label">
@@ -43,7 +43,7 @@
       <!-- === Palettes === -->
 
       <trans-unit id="palettes.access.label">
-        <source>Publish Dates and Access Rights</source>
+        <source>Access rights and publish dates</source>
       </trans-unit>
 
       <trans-unit id="palettes.general.label">
@@ -91,7 +91,7 @@
       <!-- === Tabs === -->
 
       <trans-unit id="tabs.access.label">
-        <source>Publish Dates and Access Rights</source>
+        <source>Access rights and publish dates</source>
       </trans-unit>
 
       <trans-unit id="tabs.accessibility.label">
