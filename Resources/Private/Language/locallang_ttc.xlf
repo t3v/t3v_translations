@@ -22,6 +22,10 @@
         <source>Grid elements</source>
       </trans-unit>
 
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.legacy.header">
+        <source>Legacy</source>
+      </trans-unit>
+
       <!-- === TCE Form === -->
 
       <!-- Content Records -->

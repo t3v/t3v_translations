@@ -26,6 +26,11 @@
         <target>Raster-Elemente</target>
       </trans-unit>
 
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.legacy.header">
+        <source>Legacy</source>
+        <target>Legacy</target>
+      </trans-unit>
+
       <!-- === TCE Form === -->
 
       <!-- Content Records -->
