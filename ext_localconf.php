@@ -1,8 +1,8 @@
 <?php
+declare(strict_types=1);
+
 /**
  * The local extension configuration.
- *
- * @noinspection PhpFullyQualifiedNameUsageInspection
  */
 
 defined('TYPO3') or die();
@@ -12,7 +12,7 @@ defined('TYPO3') or die();
 //
 //     // $namespace = 'T3v';
 //     // $extensionKey = 't3v_translations';
-//     // $extensionSignature = \T3v\T3vCore\Utility\ExtensionUtility::getSignature($namespace, $extensionKey);
+//     // $extensionSignature = ExtensionUtility::getSignature($namespace, $extensionKey);
 //
 //     // === T3v Generator ===
 // })();

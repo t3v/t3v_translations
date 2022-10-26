@@ -11,12 +11,7 @@
         <target>Kontainer</target>
       </trans-unit>
 
-      <trans-unit id="mod.wizards.newContentElement.wizardItems.contentElements.header">
-        <source>Content elements</source>
-        <target>Inhaltselemente</target>
-      </trans-unit>
-
-      <trans-unit id="mod.wizards.newContentElement.wizardItems.contentObjects.header">
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.contentObject.header">
         <source>Content objects</source>
         <target>Inhaltsobjekte</target>
       </trans-unit>
@@ -26,14 +21,34 @@
         <target>Benutzerdefinierte Elemente</target>
       </trans-unit>
 
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.form.header">
+        <source>Form elements</source>
+        <target>Formularelemente</target>
+      </trans-unit>
+
       <trans-unit id="mod.wizards.newContentElement.wizardItems.gridElements.header">
         <source>Grid elements</source>
         <target>Raster-Elemente</target>
       </trans-unit>
 
       <trans-unit id="mod.wizards.newContentElement.wizardItems.legacy.header">
-        <source>Legacy</source>
-        <target>Legacy</target>
+        <source>Legacy elements</source>
+        <target>Alte Elemente</target>
+      </trans-unit>
+
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.menu.header">
+        <source>Menu elements</source>
+        <target>Menü-Elemente</target>
+      </trans-unit>
+
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.plugins.header">
+        <source>Plugin elements</source>
+        <target>Plugin-Elemente</target>
+      </trans-unit>
+
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.special.header">
+        <source>Special elements</source>
+        <target>Besondere Elemente</target>
       </trans-unit>
 
       <!-- === TCE Form === -->

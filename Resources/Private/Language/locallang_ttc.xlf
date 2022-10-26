@@ -10,11 +10,7 @@
         <source>Container</source>
       </trans-unit>
 
-      <trans-unit id="mod.wizards.newContentElement.wizardItems.contentElements.header">
-        <source>Content elements</source>
-      </trans-unit>
-
-      <trans-unit id="mod.wizards.newContentElement.wizardItems.contentObjects.header">
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.contentObject.header">
         <source>Content objects</source>
       </trans-unit>
 
@@ -22,12 +18,28 @@
         <source>Custom elements</source>
       </trans-unit>
 
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.form.header">
+        <source>Form elements</source>
+      </trans-unit>
+
       <trans-unit id="mod.wizards.newContentElement.wizardItems.gridElements.header">
         <source>Grid elements</source>
       </trans-unit>
 
       <trans-unit id="mod.wizards.newContentElement.wizardItems.legacy.header">
-        <source>Legacy</source>
+        <source>Legacy elements</source>
+      </trans-unit>
+
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.menu.header">
+        <source>Menu elements</source>
+      </trans-unit>
+
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.plugins.header">
+        <source>Plugin elements</source>
+      </trans-unit>
+
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.special.header">
+        <source>Special elements</source>
       </trans-unit>
 
       <!-- === TCE Form === -->
