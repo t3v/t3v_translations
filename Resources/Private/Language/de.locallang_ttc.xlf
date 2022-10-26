@@ -6,6 +6,11 @@
     <body>
       <!-- === Modules === -->
 
+      <trans-unit id="mod.wizards.newContentElement.wizardItems.container.header">
+        <source>Container</source>
+        <target>Kontainer</target>
+      </trans-unit>
+
       <trans-unit id="mod.wizards.newContentElement.wizardItems.contentElements.header">
         <source>Content elements</source>
         <target>Inhaltselemente</target>
