@@ -44,8 +44,6 @@
 
       <!-- === TCE Form === -->
 
-      <!-- Content Records -->
-
       <trans-unit id="tceform.ttContent.header.layout.label">
         <source>Layout</source>
       </trans-unit>
