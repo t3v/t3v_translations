@@ -1,12 +1,14 @@
 <?php
-$EM_CONF['t3v_translations'] = [
+/** @var string $_EXTKEY */
+
+$EM_CONF[$_EXTKEY] = [
     'title' => 'T3v Translations',
     'description' => 'The translations extension of TYPO3voilà.',
     'author' => 'Maik Kempe',
     'author_email' => 'mkempe@bitaculous.com',
     'author_company' => 'Bitaculous - It\'s all about the bits, baby!',
     'category' => 'misc',
-    'state' => 'alpha',
+    'state' => 'stable',
     'version' => '2.0.0',
     'createDirs' => '',
     'uploadfolder' => false,
