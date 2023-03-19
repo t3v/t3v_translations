@@ -7,7 +7,7 @@
       <!-- === Modules === -->
 
       <trans-unit id="mod.wizards.newContentElement.wizardItems.container.header">
-        <source>Container</source>
+        <source>Container elements</source>
       </trans-unit>
 
       <trans-unit id="mod.wizards.newContentElement.wizardItems.contentObject.header">
