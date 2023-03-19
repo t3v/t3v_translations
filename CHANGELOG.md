@@ -7,6 +7,8 @@ Unreleased
 ----------
 
 * Updated translations
+* Updated Composer configuration
+* Updated dependencies
 
 2.0.0
 -----
