@@ -84,6 +84,10 @@
         <source>Hide at login</source>
       </trans-unit>
 
+      <trans-unit id="shared.piFlexform.label">
+        <source>Advanced settings</source>
+      </trans-unit>
+
       <trans-unit id="shared.userGroups.label">
         <source>__User Groups:__</source>
       </trans-unit>

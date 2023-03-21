@@ -102,6 +102,11 @@
         <target>Nach Anmeldung verbergen</target>
       </trans-unit>
 
+      <trans-unit id="shared.piFlexform.label">
+        <source>Advanced settings</source>
+        <target>Erweiterte Einstellungen</target>
+      </trans-unit>
+
       <trans-unit id="shared.userGroups.label">
         <source>__User Groups:__</source>
         <target>__Benutzergruppen:__</target>
