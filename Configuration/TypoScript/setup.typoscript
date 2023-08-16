@@ -1,15 +1,15 @@
 /*
-  --------------------------
-  | T3v Translations Setup |
-  --------------------------
+--------------------------
+| T3v Translations Setup |
+--------------------------
 */
 
 /*
-  === Imports ===
+=== Imports ===
 */
 
 @import './Base/setup.typoscript'
 
 /*
-  === T3v Generator ===
+=== T3v Generator ===
 */
