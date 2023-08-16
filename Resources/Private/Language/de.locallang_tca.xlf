@@ -164,6 +164,11 @@
         <target>Metadaten</target>
       </trans-unit>
 
+      <trans-unit id="tabs.notes.label">
+        <source>Notes</source>
+        <target>Notizen</target>
+      </trans-unit>
+
       <trans-unit id="tabs.resources.label">
         <source>Resources</source>
         <target>Ressourcen</target>

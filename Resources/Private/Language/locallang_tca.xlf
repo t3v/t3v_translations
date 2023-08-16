@@ -134,6 +134,10 @@
         <source>Metadata</source>
       </trans-unit>
 
+      <trans-unit id="tabs.notes.label">
+        <source>Notes</source>
+      </trans-unit>
+
       <trans-unit id="tabs.resources.label">
         <source>Resources</source>
       </trans-unit>
